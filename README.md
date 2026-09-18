@@ -1,1 +1,1 @@
-# Sci-Cal
+# Javascript Calculator
